@@ -15,6 +15,7 @@ campos_balance = "insert into admfca.cltb_account_comp_balances (BRANCH_CODE, AC
     
 
 def seleccionar():
+        """ddddd"""
         global ruta
         ruta = filedialog.askopenfilename(
         initialdir = '.',
