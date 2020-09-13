@@ -1,0 +1,4 @@
+[{"id": 1,"car":{"car_make":"chevrolet","car_model":"murcielago","car_year":"2002"},"price":"$13724.05","total_sales": 149},
+{"id": 2,"car":{"car_make":"mazda","car_model":"mazda6","car_year":"2006"},"price":"$13765.05","total_sales": 132},
+{"id": 3,"car":{"car_make":"daewo","car_model":"satanico","car_year":"1999"},"price":"$12322.05","total_sales": 240}]
+

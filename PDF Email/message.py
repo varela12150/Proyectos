@@ -8,7 +8,7 @@ import getpass
 def generate(sender, recipient, subject, body, attachment_path):
     """create basic email with attachment"""
     # Basic Email information
-    message = email.massage.EmailMessage()
+    message = email.message.EmailMessage()
     message['From'] = sender
     message['To'] = recipient
     message['Subject'] = subject
